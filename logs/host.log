@@ -1,0 +1,379 @@
+2026-06-07 00:10:19,165 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:10:23,744 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:10:23,744 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:10:23,767 INFO __main__: Processing user message: Hi
+2026-06-07 00:10:23,767 INFO __main__: Processing user message: Hi
+2026-06-07 00:10:23,772 ERROR __main__: Error processing message: Implement the agent loop here
+2026-06-07 00:10:23,772 ERROR __main__: Error processing message: Implement the agent loop here
+2026-06-07 00:36:23,993 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:23,993 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:23,993 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:29,463 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:29,463 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:29,463 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:29,463 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:36:29,478 INFO __main__: Processing user message: Hi
+2026-06-07 00:36:29,478 INFO __main__: Processing user message: Hi
+2026-06-07 00:36:29,478 INFO __main__: Processing user message: Hi
+2026-06-07 00:36:29,478 INFO __main__: Processing user message: Hi
+2026-06-07 00:36:29,479 ERROR __main__: Error processing message: Implement list_tools()
+2026-06-07 00:36:29,479 ERROR __main__: Error processing message: Implement list_tools()
+2026-06-07 00:36:29,479 ERROR __main__: Error processing message: Implement list_tools()
+2026-06-07 00:36:29,479 ERROR __main__: Error processing message: Implement list_tools()
+2026-06-07 00:41:17,199 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:41:20,387 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:41:20,387 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:41:20,404 INFO __main__: Processing user message: Hi
+2026-06-07 00:41:20,404 INFO __main__: Processing user message: Hi
+2026-06-07 00:41:20,528 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:41:20,528 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:41:20,538 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:41:20,538 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:41:20,546 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:41:20,546 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:41:20,558 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:41:20,558 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:41:24,171 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:41:24,171 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:41:24,172 ERROR __main__: Error processing message: 'NoneType' object is not subscriptable
+2026-06-07 00:41:24,172 ERROR __main__: Error processing message: 'NoneType' object is not subscriptable
+2026-06-07 00:43:08,306 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:43:20,609 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:43:20,609 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:43:20,625 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 00:43:20,625 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 00:43:20,651 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:20,651 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:20,654 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:43:20,654 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:43:20,661 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:43:20,661 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:43:20,672 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:20,672 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,351 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,351 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,353 INFO __main__: Parsed task arguments: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 00:43:21,353 INFO __main__: Parsed task arguments: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 00:43:21,353 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 00:43:21,353 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 00:43:21,374 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,374 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,377 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:43:21,377 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:43:21,384 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:43:21,384 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:43:21,429 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,429 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:43:21,432 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: Error executing tool add_task: [Errno 13] Permission denied: 'data\\todo.csv'
+2026-06-07 00:43:21,432 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: Error executing tool add_task: [Errno 13] Permission denied: 'data\\todo.csv'
+2026-06-07 00:43:21,433 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 00:43:21,433 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 00:46:00,918 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:46:03,061 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:46:03,061 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:46:03,074 INFO __main__: Processing user message: Hi
+2026-06-07 00:46:03,074 INFO __main__: Processing user message: Hi
+2026-06-07 00:46:03,100 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,100 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,103 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:46:03,103 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:46:03,108 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:46:03,108 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:46:03,118 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,118 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,590 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,590 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:46:03,591 ERROR __main__: Error processing message: 'NoneType' object is not subscriptable
+2026-06-07 00:46:03,591 ERROR __main__: Error processing message: 'NoneType' object is not subscriptable
+2026-06-07 00:48:52,484 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:00,479 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:00,479 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:00,493 INFO __main__: Processing user message: hi
+2026-06-07 00:49:00,493 INFO __main__: Processing user message: hi
+2026-06-07 00:49:00,526 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,526 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,529 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:49:00,529 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:49:00,536 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:49:00,536 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:49:00,547 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,547 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,982 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,982 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:49:00,983 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 00:49:00,983 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 00:49:12,301 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:12,301 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:12,301 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:1.5b-instruct
+2026-06-07 00:49:12,318 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 00:49:12,318 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 00:49:12,318 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 00:49:12,339 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,339 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,339 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,342 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:49:12,342 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:49:12,342 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 00:49:12,349 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:49:12,349 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:49:12,349 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 00:49:12,359 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,359 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,359 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,981 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,981 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,981 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 00:49:12,982 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 00:49:12,982 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 00:49:12,982 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 01:01:53,558 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:01:56,215 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:01:56,215 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:01:56,230 INFO __main__: Processing user message: hi
+2026-06-07 01:01:56,230 INFO __main__: Processing user message: hi
+2026-06-07 01:01:56,257 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:01:56,257 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:01:56,260 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:01:56,260 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:01:56,267 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:01:56,267 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:01:56,280 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:01:56,280 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:01,026 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:01,026 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:01,029 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 01:02:01,029 ERROR __main__: Error processing message: The model did not call a tool. Describe an actual task, e.g. 'Add a task: buy milk'.
+2026-06-07 01:02:11,051 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:11,051 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:11,051 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:11,069 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:02:11,069 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:02:11,069 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:02:11,093 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:11,093 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:11,093 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:11,096 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:11,096 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:11,096 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:11,103 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:11,103 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:11,103 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:11,115 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:11,115 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:11,115 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,082 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,082 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,082 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,083 INFO __main__: Parsed task arguments: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,083 INFO __main__: Parsed task arguments: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,083 INFO __main__: Parsed task arguments: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,084 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,084 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,084 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'buy milk', 'status': 'todo', 'category': '', 'people': '', 'deadline': ''}
+2026-06-07 01:02:12,113 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,113 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,113 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,116 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:12,116 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:12,116 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:12,125 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:12,125 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:12,125 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:12,162 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,162 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,162 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,175 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,175 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,175 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:12,177 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:12.139456+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:12,177 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:12.139456+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:12,177 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:12.139456+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:36,738 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:36,738 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:36,738 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:36,738 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:02:36,757 INFO __main__: Processing user message: I want to add a task to go to the gym next friday
+2026-06-07 01:02:36,757 INFO __main__: Processing user message: I want to add a task to go to the gym next friday
+2026-06-07 01:02:36,757 INFO __main__: Processing user message: I want to add a task to go to the gym next friday
+2026-06-07 01:02:36,757 INFO __main__: Processing user message: I want to add a task to go to the gym next friday
+2026-06-07 01:02:36,779 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,779 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,779 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,779 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,782 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:36,782 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:36,782 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:36,782 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:36,788 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:36,788 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:36,788 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:36,788 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:36,798 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,798 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,798 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:36,798 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,806 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,806 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,806 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,806 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,807 INFO __main__: Parsed task arguments: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO __main__: Parsed task arguments: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO __main__: Parsed task arguments: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO __main__: Parsed task arguments: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,807 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Go to the gym', 'status': 'todo', 'category': '', 'people': '', 'deadline': '2026-07-10'}
+2026-06-07 01:02:37,834 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,834 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,834 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,834 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,838 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:37,838 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:37,838 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:37,838 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:02:37,844 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:37,844 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:37,844 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:37,844 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:02:37,859 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,859 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,859 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,859 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,872 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,872 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,872 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,872 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:02:37,875 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:37.855379+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:37,875 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:37.855379+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:37,875 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:37.855379+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:02:37,875 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:02:37.855379+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:11:26,527 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:11:26,527 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:11:26,527 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:11:26,527 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:11:26,527 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:11:26,546 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:11:26,546 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:11:26,546 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:11:26,546 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:11:26,546 INFO __main__: Processing user message: Add a task: buy milk
+2026-06-07 01:11:28,603 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 01:11:28,603 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 01:11:28,603 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 01:11:28,603 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 01:11:28,603 ERROR __main__: Error processing message: unhandled errors in a TaskGroup (1 sub-exception)
+2026-06-07 01:15:30,688 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:15:33,460 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:15:33,460 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:15:33,480 INFO __main__: Processing user message: hi
+2026-06-07 01:15:33,480 INFO __main__: Processing user message: hi
+2026-06-07 01:15:35,533 ERROR __main__: Error processing message: MCP server unreachable
+2026-06-07 01:15:35,533 ERROR __main__: Error processing message: MCP server unreachable
+2026-06-07 01:20:59,484 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:21:03,834 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:21:03,834 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:21:03,850 INFO __main__: Processing user message: Hi
+2026-06-07 01:21:03,850 INFO __main__: Processing user message: Hi
+2026-06-07 01:21:03,876 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:21:03,876 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:21:03,879 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:21:03,879 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:21:03,886 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:21:03,886 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:21:03,897 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:21:03,897 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:21:08,172 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:21:08,172 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,383 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:22:08,383 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:22:08,383 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:22:08,400 INFO __main__: Processing user message: There is a meeting on 8/6/2026
+2026-06-07 01:22:08,400 INFO __main__: Processing user message: There is a meeting on 8/6/2026
+2026-06-07 01:22:08,400 INFO __main__: Processing user message: There is a meeting on 8/6/2026
+2026-06-07 01:22:08,423 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,423 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,423 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,426 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:08,426 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:08,426 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:08,432 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:08,432 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:08,432 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:08,441 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,441 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:08,441 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,403 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,403 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,403 INFO httpx: HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,404 INFO __main__: Parsed task arguments: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,404 INFO __main__: Parsed task arguments: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,404 INFO __main__: Parsed task arguments: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,405 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,405 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,405 INFO src.mcp_todo_host.mcp_client: Calling MCP tool 'add_task' with: {'description': 'Meeting on 8/6/2026', 'status': 'todo', 'category': '', 'people': '', 'deadline': '8/6/2026'}
+2026-06-07 01:22:09,429 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,429 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,429 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,431 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:09,431 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:09,431 INFO mcp.client.streamable_http: Negotiated protocol version: 2025-11-25
+2026-06-07 01:22:09,438 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:09,438 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:09,438 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 202 Accepted"
+2026-06-07 01:22:09,460 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,460 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,460 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,472 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,472 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,472 INFO httpx: HTTP Request: POST http://127.0.0.1:8000/mcp "HTTP/1.1 200 OK"
+2026-06-07 01:22:09,475 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:22:09.452956+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:22:09,475 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:22:09.452956+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:22:09,475 INFO src.mcp_todo_host.mcp_client: MCP 'add_task' result: {
+  "success": true,
+  "timestamp": "2026-06-06T22:22:09.452956+00:00",
+  "csv_path": "data\\todo.csv"
+}
+2026-06-07 01:23:29,979 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:23:33,862 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:23:33,862 INFO __main__: Starting MCP host. Server: http://127.0.0.1:8000/mcp, Model: qwen2.5:3b-instruct
+2026-06-07 01:23:33,877 INFO __main__: Processing user message: hi
+2026-06-07 01:23:33,877 INFO __main__: Processing user message: hi
+2026-06-07 01:23:35,911 ERROR __main__: Error processing message: MCP server unreachable
+2026-06-07 01:23:35,911 ERROR __main__: Error processing message: MCP server unreachable
