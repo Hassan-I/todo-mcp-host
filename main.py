@@ -11,6 +11,21 @@ from src.mcp_todo_host.task_parser import TaskParser
 logger = logging.getLogger(__name__)
 
 
+def _format_csv_path(raw: str | None) -> str:
+    """Normalise the server's csv_path for display.
+
+    The MCP server may return a platform-native path (e.g. ``data\\todo.csv``
+    on Windows). The documented success message uses a forward-slash,
+    ``./``-prefixed form (``./data/todo.csv``), so normalise to match.
+    """
+    if not raw:
+        return "?"
+    path = raw.replace("\\", "/")
+    if not path.startswith((".", "/")) and ":" not in path:
+        path = f"./{path}"
+    return path
+
+
 class App:
     """Orchestrates the UI, LLM client, task parser, and MCP client.
 
@@ -103,18 +118,19 @@ class App:
 
         try:
             tool_call = self._llm.generate(user_message, tools)
+            args = self._parser.validate(tool_call["arguments"])
         except ValueError:
-            # The LLM replied with plain text instead of a tool call (e.g. a
-            # greeting or small talk). This is a normal outcome, not an error —
+            # No actionable task. Either the LLM replied with plain text instead
+            # of a tool call (a greeting or small talk), or it called the tool
+            # with an empty description. Both are normal outcomes, not errors —
             # so we return a plain message and add no CSV row.
-            return "no tool called, no CSV row added"
+            return "No task detected — nothing was added."
 
-        args = self._parser.validate(tool_call["arguments"])
         logger.info("Parsed task arguments: %s", args)
 
         result = self._mcp.call_tool(tool_call["name"], args)
 
-        return f"Task added: {args['description']} (saved at {result.get('csv_path', '?')})"
+        return f"Task added: {args['description']} (saved at {_format_csv_path(result.get('csv_path'))})"
         # ******************************** END HERE ********************************
 
     def run(self) -> None:
